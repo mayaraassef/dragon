@@ -1,0 +1,188 @@
+body{
+    font-family: 'Staatliches', cursive;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    background: rgb(255, 94, 0);
+    
+}
+
+body::-webkit-scrollbar {
+    width: 5px;
+    background: linear-gradient(orange, orangered, red);
+    background: -webkit-linear-gradient( orange, orangered, red);
+    background: -moz-linear-gradient( orange, orangered, red);
+    
+}
+
+nav{
+    background-image: linear-gradient( orange, red);
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+    font-size: 15px;
+    margin: 2px;
+    margin-left: 80px;
+    letter-spacing: 2px;
+}
+  .navbar-light .navbar-nav .nav-link:hover {
+    color: whitesmoke;
+}
+
+span, .icon{
+    color: black;
+}
+
+/*****SLIDE*****/
+
+
+.carousel-caption {
+    position: absolute;
+    top: 40%;
+    transform: translateY(-50%);
+}
+
+.carousel-caption h1{
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: red;
+    font-weight: bold;
+    color: rgb(255, 94, 0);
+}
+
+.carousel-indicators{
+    top: 60%;
+}
+
+.carousel-inner img {
+    opacity: 90%;
+}
+
+.carousel-caption button{
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+
+.span{
+    text-align: center;
+    padding:8px;
+}
+
+
+.btn{
+    position: relative;
+    top: 30%;
+}
+
+#cardapio{
+    margin-bottom: 10px;
+    
+}
+
+.imagem-comida{
+    width: 240px;
+    border-radius: 15px;
+    opacity: 70%;
+    
+}
+
+.imagem-comida:hover{
+    -moz-transition: all 0.4s;
+	-webkit-transition: all 0.4s;
+    transition: all 0.4s;
+    -moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    cursor: pointer;
+    opacity: 100%;
+    
+}
+
+.descricao{
+    position: absolute;
+    top: 25%;
+    left: 8%;
+    text-align: center;
+    margin: 8px;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+}
+
+.box{
+    margin-bottom: 20px;
+    width: 240px;
+}
+
+#sobre, #contato{
+    background-image: url(imagens/fundo2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1, h3, p{
+    color: black;
+    font-weight: bold;
+}
+
+p{
+    font-size: 17px;
+}
+a{
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
