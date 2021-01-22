@@ -2,7 +2,9 @@
 
 </h1>
 
-<img src="img/tela.gif">
+<img src="imagens/tela_site.gif">
+
+<img src="imagens/tela_site_responsivo.gif">
 
 # 👀Sobre
 
@@ -17,8 +19,8 @@ No projeto Dragon, eu utilizei as tecnologias HTML, CSS, Bootstrap e Jquery.
 ```
 bash
 
-$ git clone https://github.com/mayaraassef/World-.git
+$ git clone https://github.com/mayaraassef/dragon.git
 
-$ cd World
+$ cd dragon
 
 ```
