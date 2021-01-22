@@ -1,8 +1,10 @@
-<h1 align="center"> Projeto Dragon
+<h1 align="center"> Projeto Dragon 🐲
 
 </h1>
 
 <img src="imagens/tela_site.gif">
+
+<h1 align="center"> Layout Responsivo </h1>
 
 <img src="imagens/tela_site_responsivo.gif">
 
