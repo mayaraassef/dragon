@@ -2,7 +2,7 @@
 
 </h1>
 
-<img src="imagens/tela_site.gif">
+<img src="imagens/layout.gif">
 
 <h1 align="center"> Layout Responsivo </h1>
 
@@ -11,6 +11,7 @@
 # 👀Sobre
 
 O Projeto Dragon foi criado com o intuito de demonstrar um layout responsivo e uma experiência de navegação intuitiva. É um site de um restaurante japonês fictício.
+Acesse em: https://restaurante-dragon.netlify.app/
 
 #  🔧Tecnologias empregadas
 
