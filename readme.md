@@ -2,7 +2,7 @@
 
 </h1>
 
-<img src="imagens/tela_site.gif">
+<img src="imagens/layout.gif">
 
 <h1 align="center"> Layout Responsivo </h1>
 
